@@ -1,4 +1,4 @@
-# CS-470-H7246-Full-Stack-Development-2
+![Design and Development](https://images.search.yahoo.com/search/images;_ylt=AwrEmO5QkL9jykIg2EqJzbkF;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDOTYwNjI4NTcEX3IDMgRmcgNtY2FmZWUEZnIyA3A6cyx2OmksbTpzYi10b3AEZ3ByaWQDWlY2MVNNSVhUY0cudF9BXzVsVEk0QQRuX3JzbHQDMARuX3N1Z2cDNwRvcmlnaW4DaW1hZ2VzLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzEyBHF1ZXJ5A2FuZ2x1YXIlMjBsb2dvBHRfc3RtcAMxNjczNDk4NzA2?p=angluar+logo&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt&type=E211US714G0#id=2&iurl=https%3A%2F%2Fwww.brunobrito.net.br%2Fcontent%2Fimages%2F2018%2F07%2Fangular-logo-1.png&action=click)
 
                                                                       Experience and strengths
 
